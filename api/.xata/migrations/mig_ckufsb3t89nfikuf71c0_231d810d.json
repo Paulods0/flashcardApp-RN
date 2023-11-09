@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufsb3t89nfikuf71c0",
+  "parentID": "mig_ckufs73t89nfikuf71b0",
+  "checksum": "1:231d810dac82f49d372a78910592ad8ace30b81bca0e460d452f97e7dd48eac5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "cards_wrong",
+          "type": "int"
+        },
+        "table": "learnings"
+      }
+    }
+  ]
+}

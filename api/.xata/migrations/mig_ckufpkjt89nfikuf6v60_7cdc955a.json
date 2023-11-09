@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufpkjt89nfikuf6v60",
+  "parentID": "mig_ckufpdrt89nfikuf6v50",
+  "checksum": "1:7cdc955a4f59b9b5510f014bbad181ca34a47065f2d09d60a17d75e392721f4b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "question",
+          "type": "string"
+        },
+        "table": "cards"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufirjt89nfikuf6v0g",
+  "parentID": "mig_ckufiebt89nfikuf6uvg",
+  "checksum": "1:a3f932dbc51b434140df21342b88204edf5f734ed5e05b729013d017d7bb2cfd",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "description",
+          "type": "text"
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}

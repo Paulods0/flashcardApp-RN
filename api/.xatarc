@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Paulo-Da-Silva-s-workspace-b7ghnd.us-west-2.xata.sh/db/flashcard-app",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

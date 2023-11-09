@@ -1,0 +1,19 @@
+{
+  "id": "mig_ckufqart89nfikuf6v80",
+  "parentID": "mig_ckufpvbt89nfikuf6v70",
+  "checksum": "1:eed31cd6142727c98ef025b25147efc66086a2727ac8b9ae3ded020b370fb79b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "set",
+          "type": "link",
+          "link": {
+            "table": "sets"
+          }
+        },
+        "table": "cards"
+      }
+    }
+  ]
+}

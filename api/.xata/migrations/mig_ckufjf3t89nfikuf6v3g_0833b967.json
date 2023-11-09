@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufjf3t89nfikuf6v3g",
+  "parentID": "mig_ckufj8rt89nfikuf6v2g",
+  "checksum": "1:0833b9679f95db10edf7ad73f91a80b561a45142bb5dbec62298dd4bfb0bb672",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "file"
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}

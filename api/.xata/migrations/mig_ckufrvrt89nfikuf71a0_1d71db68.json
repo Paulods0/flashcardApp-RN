@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufrvrt89nfikuf71a0",
+  "parentID": "mig_ckufrrjt89nfikuf7190",
+  "checksum": "1:1d71db682d7ea7964d0dc2ddf4df0ce488e8ea2f9cf2fe890df55701dba78f2f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "user",
+          "type": "string"
+        },
+        "table": "learnings"
+      }
+    }
+  ]
+}

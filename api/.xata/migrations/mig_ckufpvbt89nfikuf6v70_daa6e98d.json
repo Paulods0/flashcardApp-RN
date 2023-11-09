@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufpvbt89nfikuf6v70",
+  "parentID": "mig_ckufpnvsaj42vf2bqg90",
+  "checksum": "1:daa6e98d04d03343335031517eb9b228f12bec0f7714f8d02f514fe4be9e00ea",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "image",
+          "type": "file"
+        },
+        "table": "cards"
+      }
+    }
+  ]
+}

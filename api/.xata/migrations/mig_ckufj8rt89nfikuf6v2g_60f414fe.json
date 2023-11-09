@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckufj8rt89nfikuf6v2g",
+  "parentID": "mig_ckufj1jt89nfikuf6v1g",
+  "checksum": "1:60f414fe597f3d051855ae057b979265b6236c64d4e1456ae3a430e7e077e5a2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "creator",
+          "type": "string"
+        },
+        "table": "sets"
+      }
+    }
+  ]
+}
